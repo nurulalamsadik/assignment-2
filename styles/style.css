@@ -327,8 +327,12 @@ body{
   padding: 0;
 }
 .team-text{
-  width: 400px;
+  width: 350px;
   margin: 0;
+  text-align: center;
+}
+.team-text p{
+  width: 350px;
 }
 .team-image{
   display: grid;
